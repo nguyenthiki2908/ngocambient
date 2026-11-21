@@ -2,3 +2,7 @@
 facebook.com, 983729051405292, DIRECT, c3e20eee3f780d68
 #google
 google.com, pub-8678553645818143, DIRECT, f08c47fec0942fa0
+
+
+# 2026-11-21
+facebook.com, 4485837595034564, DIRECT, c3e20eee3f780d68
